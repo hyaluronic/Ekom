@@ -1,8 +1,11 @@
 1. Elektroninių paslaugų kaip organizacijos vidinių ir išorinių procesų sistemos samprata. 
 
 Ekom - Produktų, paslaugų arba informacijos per kompiuterių tinklus pirkimo, pardavimo ar mainų procesas.
+
 Elektroninis verslas - platesnis Ekom apibrėžimas, apimantis ne tik prekių ir paslaugų pirkimą ir pardavimą, bet ir klientų aptarnavimą, bendradarbiavimą su verslo partneriais ir elektroninių sandorių vykdymą organizacijoje.
+
 Intranetas - Vidinis įmonės ar vyriausybės tinklas, kuriame naudojamas interneto įrankiai, pavyzdžiui, žiniatinklio naršyklės, ir interneto protokolai
+
 Ekstranetas - Tinklas, kuris naudoja internetą keliems intranetams sujungti.
 
 Elektroninės paslaugos (arba elektroninės paslaugos) - tai paslaugų teikimas elektroninėmis priemonėmis, paprastai internetu. Šias paslaugas gali teikti valstybinės įstaigos, įmonės ar kitos organizacijos. Jos gali būti vidinės, t. y. jomis naudojasi organizacijos darbuotojai, arba išorinės, t. y. jomis gali naudotis visuomenė arba kitos organizacijos.
@@ -40,11 +43,17 @@ skatinti valstybės – viešojo sektoriaus, ekonomikos ir visuomenės – skait
 Elektroninės prekybos sistemų apdorojimas - tai procesų, vykstančių klientui perkant internetu, visuma. Šiuos procesus galima suskirstyti į kelis etapus:
 
 Kliento naršymas: Klientas peržiūri internetinę parduotuvę ir pasirenka norimas įsigyti prekes.
+
 Užsakymo pateikimas: Pirkėjas prekes įsideda į pirkinių krepšelį ir pereina į kasos puslapį, kuriame įveda savo atsiskaitymo ir pristatymo informaciją ir pateikia užsakymą.
+
 Užsakymo apdorojimas: Elektroninės prekybos sistema patvirtina kliento informaciją ir mokėjimo būdą ir pradeda užsakymo vykdymo procesą. Tai gali apimti atsargų patikrinimą, prekių rezervavimą, pakavimo lapo ir siuntimo etiketės sukūrimą.
+
 Užsakymo vykdymas: Užsakymą supakuoja ir išsiunčia klientui e. prekybos įmonė arba trečiosios šalies užsakymo vykdymo tarnyba.
+
 Užsakymo stebėjimas: Klientui pateikiamas užsakymo sekimo numeris arba kitos priemonės, leidžiančios sekti užsakymo eigą, kai jis siunčiamas klientui.
+
 Užsakymo pristatymas: Užsakymą klientui pristato kurjerių tarnyba arba paštu.
+
 Klientų aptarnavimas: Jei klientui kyla problemų dėl užsakymo, jis gali kreiptis į e. prekybos įmonės klientų aptarnavimo skyrių ir paprašyti pagalbos.
 
 Apskritai e. prekybos sistemų apdorojimo tikslas - padaryti pirkimo procesą klientui kuo sklandesnį ir efektyvesnį.
@@ -114,24 +123,40 @@ OSI (Open Systems Interconnection) modelis sukurtas 1980 metais. Kūrėjai yra I
 98. Modelis apibrėžia duomenų perdavimo sistemų sujungimo principą, paremtą sluoksnių principu. OSI modelis nenurodo tikslių paslaugų ir protokolų, kurie turi būti naudojami kiekviename lygyje. Modelis pasako, ką kiekvienas lygis turi daryti. 
 
 OSI modelio lygmenys:
+
 • Taikomasis - atsakingas už komunikacijas tarp programų (procesų). Taikomajame lygmenyje veikia daug protokolų: HTTP, FTP, SMTP, POP, DNS, SNMP, NTP.
+
 • Vaizdavimo - susijęs su perduodamos informacijos sintakse ir semantika. Vaizdavimo lygmenyje atliekamas ir duomenų šifravimas ir dešifravimas, nors ši procedūra gali būti atlikta ir kituose lygmenyse.
+
 • Sesijos - apibrėžia, kad duomenų perdavimo procesas surišamas su tam tikra sesija (dialogo užmezgimas tarp siuntėjo ir gavėjo).
+
 • Transporto - funkcija yra priimti iš sesijinio lygio duomenis, jei reikia padalinti juos į mažesnes dalis ir perduoti į tinklinį lygį. Tinklinis lygmuo atsakingas už patikimą duomenų perdavimą be klaidų.
+
 • Tinklo - apibrėžia duomenų paketų maršrutų formavimo principus, pereinant jiems per skirtingus potinklius. 
+
 • Kanalinis (ryšio) - apibrėžia ryšio taisykles tarp dviejų fizinių tinklo įrenginių. Siuntėjo mazge duomenys skaldomi į kadrus ir kaip bitų srautas perduodami fizine ryšio linija. Gavėjo mazgas iš gautų bitų formuoja kadrus, kuriuos perduoda į tinklo lygmenį. Kanalinio lygio užduotis - sukurti ir atpažinti kadrų ribas
+
 • Fizinis - aprašo fizinius perduodamo signalo ir terpės, kuria jis perduodamas, parametrus (dažnius, moduliacijas, reikalavimus kabeliams, jungtims, duomenų vertimą į/iš fizinio signalo ir t.t.). 
 
+
 Lygmenims apibrėžti buvo naudoti tokie principai:
+
 • Kiekvienas lygmuo turi vykdyti gerai apibrėžtas funkcijas.
+
 • Kiekvieno lygmens funkcija turi būti pasirinkta orientuojantis į tarptautinių protokolų standartų sukūrimą.
+
 • Lygių ribos turi būti pasirinktos taip, kad minimizuotų informacijos srautą per sąsają.
+
 • Lygių skaičius turi būti pakankamai didelis, kad skirtingos funkcijos nepatektų be reikalo į tą patį lygį, ir pakankamai mažas, kad architektūra nepasidarytų griozdiška.
 
 Praktiškai OSI realizuojamas naudojant protokolų stekus arba kitaip sakant protokolais grįstais modeliais.
+
 Plačiausiai žinomi tokie:
+
 • TCP/IP
+
 • IPX/SPX
+
 • NetBIOS/SMB
 
 
@@ -172,17 +197,26 @@ Elektroninės viešosios paslaugos yra paslaugos, kurias galima gauti per intern
 Elektroninės viešosios paslaugos gali apimti įvairias sritis, pavyzdžiui:
 
 Asmens dokumentų tvarkymą (pavyzdžiui, paso ar vairuotojo pažymėjimo išdavimą ar keitimą)
+
 Mokesčių mokėjimą ar mokesčių deklaravimą
+
 Sveikatos paslaugų teikimą (pavyzdžiui, galimybę užsiregistruoti pas gydytoją ar gauti receptą elektroniniu būdu)
+
 Registraciją į mokyklas ar kitas mokymosi institucijas
+
 Verslo registravimą ar verslo liudijimų išdavimą
+
 Duomenų apie valstybės institucijas ir jų veiklą teikimą
+
 
 Elektroninės viešosios paslaugos gali suteikti daug naudos piliečiams ir įmonėms, įskaitant:
 
 patogumą: Elektronines paslaugas galima gauti iš bet kurios vietos ir bet kuriuo metu, todėl žmonės gali lengviau naudotis valdžios paslaugomis ir jiems nereikia asmeniškai lankytis valdžios įstaigose.
+
 Efektyvumas: E. paslaugos gali supaprastinti valdžios procesus ir sumažinti laiko bei pastangų sąnaudas, kurių reikia tokioms užduotims atlikti, kaip mokesčių deklaravimas ar prašymų dėl išmokų teikimas.
+
 Skaidrumas: E. paslaugos gali suteikti piliečiams ir įmonėms prieigą prie vyriausybės dokumentų ir informacijos, todėl lengviau stebėti paraiškų ar prašymų būklę ir reikalauti, kad vyriausybė būtų atskaitinga.
+
 
 Apskritai elektroninės viešosios paslaugos gali padėti pagerinti valdžios paslaugų prieinamumą ir veiksmingumą, o piliečiams ir įmonėms suteikti patogų būdą bendrauti su valdžia internetu.
 
@@ -195,15 +229,21 @@ Tačiau vyriausybėms svarbu užtikrinti, kad elektroninės viešosios paslaugos
 Viešųjų elektroninių paslaugų realizavimo infrastruktūra apima visas technines, organizacines ir teisinės priemonės, reikalingas elektroninių paslaugų teikimui. Tai gali apimti:
 
 Elektroninės valdžios paslaugų portalus, per kuriuos piliečiai gali pasiekti paslaugas ir informaciją
+
 Duomenų centrus, kuriuose saugoma ir valdoma informacija, reikalinga elektroninių paslaugų teikimui
+
 Teisinę sistemą, kuri reglamentuoja elektroninių paslaugų teikimą ir naudojimą
+
 Techninius sprendimus, tokius kaip elektroninių dokumentų tvarkymo sistemos ar duomenų apsaugos priemonės
 
+
 Vaiko gimimo registravimas:
+
 leidžia piliečiams elektroniniu būdu užpildyti ir pateikti dokumentus, reikalingus vaiko gimimo registravimui.
 Norint naudotis šia paslauga, pilietis turėtų turėti elektroninio parašo raktą arba turėti galimybę naudoti elektroninį parašą. Tai leidžia patvirtinti dokumentų teisingumą ir autentiškumą. Pilietis taip pat turi turėti galimybę perduoti reikalingus dokumentus elektroniniu būdu, pavyzdžiui, per elektroninę valdžios paslaugų portalo sistemą. Jei dokumentai yra pateikti teisingai ir patvirtinti, jie yra perduodami į duomenų centrą, kuriame jie yra saugomi ir tvarkomi. Po to, kai dokumentai patvirtinami, pilietis gali gauti patvirtinimą apie gimimo registravimą elektroniniu būdu, pavyzdžiui, per elektroninį paštą. Taip pat svarbu atkreipti dėmesį, kad vaiko gimimo registravimo el. viešosios paslaugos turi atitikti įvairius saugumo ir privatumo standartus, kad būtų užtikrinta informacijos ir duomenų saugumas.
 
 Išmokų gavimas:
+
 leidžia piliečiams gauti išmokas per elektronines bankininkystės sistemas ar kitas elektronines ryšių sistemas.
 Norint naudotis šia paslauga, pilietis turėtų turėti galimybę naudotis elektronine bankininkyste ar kitomis elektroninėmis ryšių sistemomis. Tai leidžia perduoti ir gauti pinigus per elektronines sistemas. Pilietis taip pat turi turėti galimybę perduoti reikalingus dokumentus elektroniniu būdu, pavyzdžiui, per elektroninę valdžios paslaugų portalo sistemą. Jei reikalingi dokumentai yra pateikti teisingai ir patvirtinti, išmokos yra perduodamos į piliečio elektroninę bankininkystės sistemą ar kitą elektroninę ryšių sistemą. Pilietis gali pasirinkti, kaip jis nori gauti išmokas (pavyzdžiui, tiesiogiai į savo banko sąskaitą ar elektroninės piniginės sąskaitą).
 
@@ -227,20 +267,33 @@ Taip pat svarbu atkreipti dėmesį, kad viešųjų elektroninių paslaugų reali
 Mobiliosios technologijos yra technologijos, kurios yra naudojamos mobiliojo ryšio ir duomenų perdavimo sistemose, pavyzdžiui, mobiliojo telefono ar planšetinio kompiuterio. Tai apima įvairias paslaugas ir inovatyvią infrastruktūrą, leidžiančią vartotojams naudotis mobiliaisiais įrenginiais ir gauti prieigą prie interneto bei kitų duomenų perdavimo ryšių sistemų.
 
 Protokolai:
+
  WAP bevielio ryšio protokolas; WAP reiškia belaidžio ryšio taikomąjį protokolą. Tai techninis standartas, leidžiantis mobiliesiems įrenginiams, pvz., išmaniesiems telefonams ir planšetiniams kompiuteriams, naudotis informacija ir paslaugomis internete bei sąveikauti su jomis.
+
  3G, 4G, 5G servisas – skirtingų kartų mobiliojo ryšio tinklų technologijos. Jos skirtos vis spartesniam ir efektyvesniam belaidžiam ryšiui mobiliuosiuose įrenginiuose, pvz., išmaniuosiuose telefonuose ir planšetiniuose kompiuteriuose, užtikrinti.
+
  Mobilus ID (apsaugos ID) - mID - MobilusID yra elektroninio parašo sprendimas, kuris leidžia patvirtinti tapatybę ir pasirašyti elektroninius dokumentus naudojant mobilųjį telefoną. Tai patogus ir saugus sprendimas, naudojantis įvairias apsaugos priemones, pavyzdžiui, slaptažodžius ir biometrinę autentifikaciją
 
 Mobiliosios technologijos leidžia naudoti mobiliuosius įrenginius kaip prekybos ir paslaugų teikimo platformas. 
+
 Mobiliosios technologijos gali teikti įvairias paslaugas, pavyzdžiui:
+
  Mobiliojo ryšio televizijos ir kitos transliacijos, leidžiančios vartotojams tiesiogiai peržiūrėti prekes ar paslaugas tiesiog per savo mobiliuosius įrenginius
+
  Mobiliosios apsipirkimo svetainės ir programėlės, leidžiančios vartotojams pirkti prekes ir paslaugas tiesiog per savo mobiliuosius įrenginius
+
  Mobiliosios bankininkystės ir kitos finansinės paslaugos, leidžiančios vartotojams atlikti mokėjimus ir gauti finansinę informaciją tiesiog per savo mobiliuosius įrenginius
+
  Mobiliosios socialinės tinklų ir žiniatinklio paslaugos, leidžiančios vartotojams susisiekti su kitomis žmonėmis ir gauti informaciją tiesiog per savo mobiliuosius įrenginius
+
  (MMS Žemėlapis?) e-SLocator paslaugą, kuri įgalina sprendimus, grindžiamų geografinės padėties nustatymu ir mobiliųjų įrenginių bei telefonų integraciją.
+
  transmisijos paslauga - unifikuotų pranešimų sprendimas (elektroninis paštas, SMS, MMS, balso perdavimas ir WAP paspaudimo) projektavimas intelektualiu būdu, leidžiant vartotojams pasirinkti kanalą ir įvykdyti arba gauti pranešimus apie tvarkaraščius, siuntėjus, užduotis, subjektus ir pan.
+
  M3 paslauga - daugialypės aplinkos (terpės, angl. multimedia) ir daugiafunkcinių įrenginių pranešimų sprendimas, leidžiantis administravimo ir viešojo administravimo daugialypės aplinkos turinio perdavimą mobiliuosiuose įrenginiuose.
+
  e-SMOvil paslauga - sprendimas įgalinantis administruoti SMS pranešimų, žinučių emisija ir priėmimą ir taip pat WAP paspaudimo pranešimus, perduodant pavojaus ir avarijų signalus taip pat ir daugialypės terpės turinio atpažinimo teikimą ir aprūpinimą.
+
  
 Mobiliosios technologijos leidžia vartotojams naudotis el. komercijos paslaugomis bet kur ir bet kada, o tai didina patogumą ir patrauklumą el. komercijos paslaugoms. Tai taip pat leidžia plėsti el. komercijos rinką, nes daugelis žmonių naudoja mobiliuosius įrenginius kaip pagrindinį būdą gauti informaciją ir atlikti pirkimus.
 
