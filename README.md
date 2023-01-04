@@ -231,14 +231,17 @@ Protokolai:
  3G, 4G, 5G servisas – skirtingų kartų mobiliojo ryšio tinklų technologijos. Jos skirtos vis spartesniam ir efektyvesniam belaidžiam ryšiui mobiliuosiuose įrenginiuose, pvz., išmaniuosiuose telefonuose ir planšetiniuose kompiuteriuose, užtikrinti.
  Mobilus ID (apsaugos ID) - mID - MobilusID yra elektroninio parašo sprendimas, kuris leidžia patvirtinti tapatybę ir pasirašyti elektroninius dokumentus naudojant mobilųjį telefoną. Tai patogus ir saugus sprendimas, naudojantis įvairias apsaugos priemones, pavyzdžiui, slaptažodžius ir biometrinę autentifikaciją
 
-Mobiliosios technologijos yra labai panaudojamos el. komercijoje, nes jos leidžia naudoti mobiliuosius įrenginius kaip prekybos ir paslaugų teikimo platformas. 
+Mobiliosios technologijos leidžia naudoti mobiliuosius įrenginius kaip prekybos ir paslaugų teikimo platformas. 
 Mobiliosios technologijos gali teikti įvairias paslaugas, pavyzdžiui:
-
-Mobiliojo ryšio televizijos ir kitos transliacijos, leidžiančios vartotojams tiesiogiai peržiūrėti prekes ar paslaugas tiesiog per savo mobiliuosius įrenginius
-Mobiliosios apsipirkimo svetainės ir programėlės, leidžiančios vartotojams pirkti prekes ir paslaugas tiesiog per savo mobiliuosius įrenginius
-Mobiliosios bankininkystės ir kitos finansinės paslaugos, leidžiančios vartotojams atlikti mokėjimus ir gauti finansinę informaciją tiesiog per savo mobiliuosius įrenginius
-Mobiliosios socialinės tinklų ir žiniatinklio paslaugos, leidžiančios vartotojams susisiekti su kitomis žmonėmis ir gauti informaciją tiesiog per savo mobiliuosius įrenginius
-
+ Mobiliojo ryšio televizijos ir kitos transliacijos, leidžiančios vartotojams tiesiogiai peržiūrėti prekes ar paslaugas tiesiog per savo mobiliuosius įrenginius
+ Mobiliosios apsipirkimo svetainės ir programėlės, leidžiančios vartotojams pirkti prekes ir paslaugas tiesiog per savo mobiliuosius įrenginius
+ Mobiliosios bankininkystės ir kitos finansinės paslaugos, leidžiančios vartotojams atlikti mokėjimus ir gauti finansinę informaciją tiesiog per savo mobiliuosius įrenginius
+ Mobiliosios socialinės tinklų ir žiniatinklio paslaugos, leidžiančios vartotojams susisiekti su kitomis žmonėmis ir gauti informaciją tiesiog per savo mobiliuosius įrenginius
+ (MMS Žemėlapis?) e-SLocator paslaugą, kuri įgalina sprendimus, grindžiamų geografinės padėties nustatymu ir mobiliųjų įrenginių bei telefonų integraciją.
+ transmisijos paslauga - unifikuotų pranešimų sprendimas (elektroninis paštas, SMS, MMS, balso perdavimas ir WAP paspaudimo) projektavimas intelektualiu būdu, leidžiant vartotojams pasirinkti kanalą ir įvykdyti arba gauti pranešimus apie tvarkaraščius, siuntėjus, užduotis, subjektus ir pan.
+ M3 paslauga - daugialypės aplinkos (terpės, angl. multimedia) ir daugiafunkcinių įrenginių pranešimų sprendimas, leidžiantis administravimo ir viešojo administravimo daugialypės aplinkos turinio perdavimą mobiliuosiuose įrenginiuose.
+ e-SMOvil paslauga - sprendimas įgalinantis administruoti SMS pranešimų, žinučių emisija ir priėmimą ir taip pat WAP paspaudimo pranešimus, perduodant pavojaus ir avarijų signalus taip pat ir daugialypės terpės turinio atpažinimo teikimą ir aprūpinimą.
+ 
 Mobiliosios technologijos leidžia vartotojams naudotis el. komercijos paslaugomis bet kur ir bet kada, o tai didina patogumą ir patrauklumą el. komercijos paslaugoms. Tai taip pat leidžia plėsti el. komercijos rinką, nes daugelis žmonių naudoja mobiliuosius įrenginius kaip pagrindinį būdą gauti informaciją ir atlikti pirkimus.
 
 
