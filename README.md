@@ -252,14 +252,84 @@ Taip pat svarbu atkreipti dėmesį, kad viešųjų elektroninių paslaugų reali
 ***
 13. Duomenų bazės ir duomenų bazių valdymo sistemos, bei jų svarba el. komercijos sistemų valdyme.
 
+Duomenų bazė yra struktūrizuotas duomenų rinkinys, kuris saugomas elektroniniu būdu, paprastai kompiuterinėje sistemoje. Duomenų bazių valdymo sistema (DBVS) yra programinė įranga, naudojama duomenų bazėms kurti, keisti ir valdyti.
+
+Duomenų bazės ir DBVS yra svarbios valdant elektroninės prekybos sistemas, nes leidžia organizacijoms efektyviai saugoti, tvarkyti ir pasiekti didelius duomenų kiekius. El. prekybos kontekste šie duomenys gali apimti klientų informaciją, produktų duomenis, pardavimo duomenis ir finansinius duomenis.
+
+Kai kurie konkretūs būdai, kuriais duomenų bazės ir DBVS gali padėti valdyti el. prekybos sistemas, yra šie:
+
+Klientų duomenų saugojimas: duomenų bazės gali būti naudojamos klientų duomenims, tokiems kaip kontaktinė informacija, pirkinių istorija ir nuostatos, saugoti. Šie duomenys gali būti naudojami siekiant personalizuoti klientų patirtį ir analizuoti klientų elgesį.
+
+Atsargų ir užsakymų valdymas: Duomenų bazės gali būti naudojamos atsargų lygiui stebėti, užsakymams valdyti ir operacijoms apdoroti. Tai gali padėti užtikrinti, kad užsakymai būtų įvykdyti tiksliai ir efektyviai.
+
+Pardavimo duomenų analizė: duomenų bazėse galima saugoti ir analizuoti pardavimo duomenis, pvz., tendencijas, klientų demografinius rodiklius ir pardavimo rezultatus. Šie duomenys gali būti naudojami verslo sprendimams informuoti ir rinkodaros bei pardavimo strategijoms optimizuoti.
+
+Apskritai duomenų bazių ir DBVS naudojimas gali padėti pagerinti el. prekybos sistemų efektyvumą, tikslumą ir mastelio keitimą, taip pat gali padėti veiksmingai valdyti šias sistemas.
+
+
 ***
 14. Elektroninis verslas. El.verslo vystymo priemonės. 
+
+Elektroninis verslas - elektroninių priemonių naudojimas verslo operacijoms ir veiklai atlikti. Tai gali apimti elektroninių ryšių ir informacinių technologijų, tokių kaip internetas, mobilieji įrenginiai ir socialinė žiniasklaida, naudojimą, siekiant palengvinti prekių ir paslaugų pirkimą ir pardavimą, taip pat keitimąsi informacija ir komunikaciją organizacijose ir tarp jų.
+
+Yra keletas būdų plėtoti elektroninį verslą, įskaitant:
+
+Interneto svetainės kūrimas: svetainė yra pagrindinė elektroninio verslo sudedamoji dalis, nes ji leidžia klientams sužinoti apie siūlomus produktus ar paslaugas, pateikti užsakymus ir atlikti mokėjimus.
+
+Internetinių mokėjimų sistemų diegimas: internetinės mokėjimo sistemos, tokios kaip PayPal ar Stripe, leidžia klientams saugiai ir patogiai atlikti mokėjimus.
+
+Socialinės medijos ir kitų skaitmeninės rinkodaros kanalų panaudojimas: Socialinės žiniasklaidos platformos, el. pašto rinkodara ir kiti skaitmeninės rinkodaros kanalai gali būti naudojami elektroniniam verslui reklamuoti ir potencialiems klientams pasiekti.
+
+Integravimas su kitomis sistemomis: el. verslas gali integruotis su kitomis sistemomis, tokiomis kaip atsargų valdymo arba ryšių su klientais valdymo (CRM) sistemos, kad pagerintų efektyvumą ir supaprastintų veiklą.
+
+Saugumo užtikrinimas: elektroninės įmonės turėtų įgyvendinti priemones, užtikrinančias jautrių duomenų ir operacijų saugumą, pavyzdžiui, šifravimą ir saugų mokėjimų apdorojimą.
+
+Apskritai elektroninio verslo plėtrai reikia techninių galimybių, rinkodaros strategijų ir efektyvių verslo procesų derinio.
+
 
 ***
 15. Verslo valdymo sistemų pagrindinės funkcijos ir jų pavyzdžiai. El. paslaugos verslo valdymo sistemų infrastruktūroje.
 
+Verslo valdymo sistemos yra sistemos, naudojamos įvairioms organizacijos veikloms, procesams ir funkcijoms valdyti ir koordinuoti. Kai kurios pagrindinės verslo valdymo sistemos funkcijos:
+
+Planavimas: Tai apima tikslų ir uždavinių nustatymą bei išteklių ir strategijų, reikalingų jiems pasiekti, nustatymą.
+
+Organizavimas: Tai apima organizacijos struktūrizavimą ir išteklių paskirstymą taip, kad organizacija galėtų pasiekti savo tikslus.
+
+Personalas: tai apima darbuotojų samdymą ir mokymą, taip pat jų veiklos ir tobulėjimo valdymą.
+
+Vadovavimas: Tai apima krypties nurodymą darbuotojams, tikslų ir lūkesčių nustatymą bei reikalingų išteklių ir paramos suteikimą jiems pasiekti.
+
+Kontrolė: Tai apima organizacijos pažangos, siekiančios užsibrėžtų tikslų, stebėjimą ir vertinimą ir prireikus korekcinių veiksmų atlikimą.
+
+Verslo valdymo sistemų pavyzdžiai yra įmonės išteklių planavimo (ERP) sistemos, ryšių su klientais valdymo (CRM) sistemos ir tiekimo grandinės valdymo (SCM) sistemos. Šios sistemos paprastai apima daugybę taikomųjų programų, kurios automatizuoja ir racionalizuoja įvairius verslo procesus, tokius kaip finansai, žmogiškieji ištekliai, gamyba ir pardavimas.
+
+Verslo valdymo sistemos infrastruktūroje elektroninėmis paslaugomis galima:
+
+Pagerinti bendravimą ir bendradarbiavimą: elektroninės paslaugos, tokios kaip el. paštas, pranešimų siuntimas ir vaizdo konferencijos, gali būti naudojamos siekiant palengvinti darbuotojų, partnerių ir klientų bendravimą ir bendradarbiavimą.
+
+Duomenų ir informacijos tvarkymas: duomenims ir informacijai saugoti, tvarkyti ir analizuoti galima naudoti elektronines paslaugas, tokias kaip saugykla debesyje, dokumentų valdymas ir duomenų analizė.
+
+Automatizuoti procesus: elektroninės paslaugos, tokios kaip darbo eigos automatizavimas, elektroninis atsiskaitymas ir sąskaitų išrašymas bei pirkimas internetu, gali būti naudojamos įvairiems verslo procesams supaprastinti ir automatizuoti.
+
+
 ***
 16. Pagrindiniai duomenų ir informacijos sistemų sąveikumo užtikrinimo lygmenys ir jų svarba realizuojant integruotas el.paslaugas.
+
+Yra keletas pagrindinių duomenų ir informacinių sistemų sąveikos užtikrinimo lygių, kurie nurodo pasitikėjimo lygį, kurį galima suteikti duomenų ir sistemų saugumui ir vientisumui. Šie užtikrinimo lygiai paprastai naudojami informacinių sistemų saugumui įvertinti ir sertifikuoti bei dažnai naudojami kaip etalonas diegiant integruotas elektronines paslaugas.
+
+Pagrindiniai užtikrinimo lygiai yra šie:
+
+1 lygis: yra įdiegtos bazinės saugos priemonės, tačiau sistema yra pažeidžiama paprastų atakų.
+
+2 lygis: taikomos vidutinio sudėtingumo saugos priemonės, užtikrinančios apsaugą nuo daugumos atakų.
+
+3 lygis: taikomos pažangios saugos priemonės, užtikrinančios aukšto lygio apsaugą nuo sudėtingų atakų.
+
+4 lygis: taikomos labai aukštos saugumo priemonės, užtikrinančios itin aukštą apsaugos lygį net nuo pažangiausių atakų.
+
+Diegiant integruotas e. paslaugas svarbu atsižvelgti į šiuos užtikrinimo lygius, nes sistemų ir duomenų saugumas yra labai svarbus sklandžiam e. paslaugų veikimui ir sėkmei. Elektroninės paslaugos, kurios tvarko jautrius ar svarbius duomenis, pvz., finansines operacijas ar asmeninę informaciją, paprastai turėtų siekti aukštesnio užtikrinimo lygio, kad būtų užtikrinta šių duomenų apsauga. Kita vertus, elektroninės paslaugos, kurios tvarko mažiau jautrius duomenis, gali veikti žemesniu užtikrinimo lygiu.
+
 
 ***
 17. Mobiliosios technologijos, paslaugos ir inovatyvi infrastruktūra. (Gebėti paaiškinti mobilių technologijų pagrindinius protokolus ir paslaugų rūšis ir El komercijos pavyzdžius).
