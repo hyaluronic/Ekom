@@ -12,6 +12,7 @@ Vidinės e. paslaugos paprastai naudojamos organizacijos veiklai ir valdymui pal
 Išorinės e. paslaugos - tai paslaugos, kurios yra prieinamos visuomenei arba kitoms organizacijoms. Jos gali apimti tokias paslaugas, kaip apsipirkimo internetu, užsakymo ar rezervavimo sistemos, taip pat klientų aptarnavimo portalai ir kitos bendravimo su klientais ar užsakovais priemonės. Šios paslaugos gali padėti organizacijoms pasiekti platesnę auditoriją, padidinti klientų pasitenkinimą ir užmegzti tvirtesnius ryšius su suinteresuotosiomis šalimis.
 
 
+***
 2. Elektroninė komercijos rušys ir jų aplinka sisteminiu požiūriu. 
 
 Sisteminiu požiūriu galima išskirti keletą e. prekybos rūšių. Tai:
@@ -27,11 +28,13 @@ Vartotojas verslui (C2B) elektroninė prekyba: Ši e. prekybos rūšis apima ind
 Aplinka, kurioje vyksta e. prekyba, gali turėti didelės įtakos jos sėkmei. Tai apima tokius veiksnius kaip interneto ryšio prieinamumas ir kokybė, vartotojų pasitikėjimo internetiniais sandoriais lygis ir palankios taisyklės bei infrastruktūra. Be to, e. prekybos aplinką gali lemti ir konkurencinė aplinka bei papildomos paslaugos ir technologijos.
 
 
+***
 3. Skaitmeninimo strategijos 2021-2030 m. pagrindinės vykdymo priemonės ir kryptys. 
 
 skatinti valstybės – viešojo sektoriaus, ekonomikos ir visuomenės – skaitmenizavimą, kuriant sprendimus, įgalinančius verslo įmones, viešąjį sektorių ir akademinę bendruomenę naudotis reikalingomis skaičiavimo, duomenų tvarkymo, kibernetinio saugumo galimybėmis, stiprinti pačių gyventojų gebėjimus pilnavertiškai pasinaudoti naujomis technologijomis, didinti supratimą apie ateinančius technologinius pokyčius ir įgalinti valstybę prie jų prisitaikyti
 
 
+***
 4. El. komercijos sistemų apdorojimo procesų analizė (gebėjimas suprojektuoti ir išreikšti  užduočių (panaudos, angl. Use Case) veikimo modelius.
 
 Elektroninės prekybos sistemų apdorojimas - tai procesų, vykstančių klientui perkant internetu, visuma. Šiuos procesus galima suskirstyti į kelis etapus:
@@ -47,6 +50,7 @@ Klientų aptarnavimas: Jei klientui kyla problemų dėl užsakymo, jis gali krei
 Apskritai e. prekybos sistemų apdorojimo tikslas - padaryti pirkimo procesą klientui kuo sklandesnį ir efektyvesnį.
 
 
+***
 5. Standartizuotos elektroninėms paslaugoms realizuoti reikalingos funkcijos ir standartai SOAP, UDDI, HTTP ir kalbos (HTML, XML, eGovXML ir pan.). Kam jos skirtos?
 
 Pasaulinio tinklo paslaugos organizuojamos remiantis standartiniais XML, HTTP ir TCP/IP protokolais ir jos turi tinklo sąsajų pakankamai detalaus aprašymo galimybes, įgalinančias kurti taikomąsias programas, sąveikaujančias per šias tinklo paslaugas. PTP yra protokolų ir standartų rinkinys, naudojamas informacijos apsikeitimui tarp programų.
@@ -65,6 +69,7 @@ XML naudojamas duomenų perfdavimui tarp skiritngų sistemų.
 eGovXML yra specifinis XML naudojamas vyriausybės duomenų apsikeitimui.
 
 
+***
 6. Vieningi duomenų mainų standartai. WSDL ir kitos priemonės reikalingos el.paslaugų realizacijai.
 
 Vieningi keitimosi duomenimis standartai - tai sutartų taisyklių ir gairių, skirtų keistis duomenimis tarp skirtingų sistemų ar organizacijų, rinkinys. Šie standartai skirti užtikrinti, kad duomenys būtų perduodami ir suprantami nuosekliai ir tiksliai, neatsižvelgiant į konkrečias naudojamas sistemas ar programinę įrangą.
@@ -84,6 +89,7 @@ WSDL (Web services description language) protokolas, apibrėžia pasaulinio tink
 Reikalingi duomenų apsikeitimo ir saugumo protokolai, kodas generuojantis interaktyvią svetainę, integracijos su mokėjimo ir kitomis sistemomis.
 
 
+***
 7. El. prekybos įgalinimo platformos (karkasai, pvz., Presta Shop, Magento).
 
 Elektroninės prekybos platformos - tai platformos arba technologijos, leidžiančios įmonėms kurti ir valdyti internetines parduotuves arba kitas elektroninės prekybos svetaines. Šios platformos suteikia reikiamą infrastruktūrą, priemones ir paslaugas, kad būtų galima pirkti ir parduoti prekes ir paslaugas internetu.
@@ -101,9 +107,11 @@ Rinkodaros ir ryšių su klientais valdymo (CRM) priemonės: Šios priemonės pa
 Elektroninės prekybos platformos gali būti svarbi sėkmingo internetinio verslo kūrimo dalis, nes jose pateikiamos būtinos priemonės ir paslaugos, padedančios pirkti ir parduoti prekes bei paslaugas internetu.
 
 
+***
 8. Kompiuterinių tinklų standartizuoti lygmenys (OSI modelis pagal ISO) ir juose veikiantys protokolai ir programinė įranga, reikalinga realizuoti elektroninės komercijos sistemas.
 
-OSI (Open Systems Interconnection) modelis sukurtas 1980 metais. Kūrėjai yra ISO ir ITU-T organizacijos. Pagrindinis ISO standartas OSI modeliui - ISO7498. Modelis apibrėžia duomenų perdavimo sistemų sujungimo principą, paremtą sluoksnių principu. OSI modelis nenurodo tikslių paslaugų ir protokolų, kurie turi būti naudojami kiekviename lygyje. Modelis pasako, ką kiekvienas lygis turi daryti. 
+OSI (Open Systems Interconnection) modelis sukurtas 1980 metais. Kūrėjai yra ISO ir ITU-T organizacijos. Pagrindinis ISO standartas OSI modeliui - ISO74***
+98. Modelis apibrėžia duomenų perdavimo sistemų sujungimo principą, paremtą sluoksnių principu. OSI modelis nenurodo tikslių paslaugų ir protokolų, kurie turi būti naudojami kiekviename lygyje. Modelis pasako, ką kiekvienas lygis turi daryti. 
 
 OSI modelio lygmenys:
 • Taikomasis - atsakingas už komunikacijas tarp programų (procesų). Taikomajame lygmenyje veikia daug protokolų: HTTP, FTP, SMTP, POP, DNS, SNMP, NTP.
@@ -127,6 +135,7 @@ Plačiausiai žinomi tokie:
 • NetBIOS/SMB
 
 
+***
 9. Valstybinės reikšmės informaciniai ištekliai (informacijos ir duomenų registrai) ir jų reikšmė viešųjų elektroninių paslaugų realizavimui.
 
 Daugelyje šalių yra tam tikrų informacijos išteklių, kurie laikomi nacionalinės svarbos, todėl juos prižiūri vyriausybė. Šiuose ištekliuose, dažnai vadinamuose informacijos ir duomenų registrais, saugoma įvairi informacija, kuri yra labai svarbi šalies ir jos piliečių funkcionavimui.
@@ -147,6 +156,7 @@ Pavyzdžiui, valstybės reikšmės informaciniai ištekliai gali būti naudojami
 Tačiau svarbu atkreipti dėmesį, kad valstybės reikšmės informaciniai ištekliai turi būti saugomi ir valdomi atsakingai, kad būtų užtikrinta jų saugumas ir privatumas. Štai kodėl yra įvesti įvairūs saugumo standartai ir reguliavimai, kurie leidžia apsaugoti šią informaciją ir užtikrinti, kad ji būtų prieinama tik teisėtoms asmenų ar institucijų.
 
 
+***
 10. Elektroninės valdžios paslaugų portalo struktūra, paslaugų teikimo vieno langelio principas.
 
 Elektroninės valdžios paslaugų portalo struktūra turėtų būti sukurta taip, kad būtų patogu naudotis: tai reiškia, kad turėtų būti aiškiai parinktos kategorijos, kurios apibrėžtų kokios paslaugos yra teikiamos, bei turėtų būti sukurta patogu paieškos sistema, kuri padėtų rasti norimą paslaugą ar informaciją. Taip pat svarbu, kad elektroninės valdžios paslaugų portale būtų pateikiamos aiškios ir suprantamos instrukcijos, kaip naudotis paslaugomis ar gauti reikalingą informaciją. Tai padėtų sumažinti nereikalingą klientų konsultavimosi poreikį ir pagerinti paslaugų teikimo efektyvumą. O paslaugų teikimas turėtų vykti vieno langelio principu.
@@ -154,6 +164,7 @@ Elektroninės valdžios paslaugų portalo struktūra turėtų būti sukurta taip
 Vieno langelio principas reiškia, kad pilietis gali gauti visus reikalingus dokumentus ir paslaugas per vieną elektroninę sistemą, be reikalo kreiptis į daugybę skirtingų institucijų ar kontaktų taškų. Tai leidžia sutaupyti laiko ir pastangų, kurios būtų reikalingos kreipimuisi į skirtingas institucijas ar įvairius kontaktų taškus.
 
 
+***
 11. Elektroninės viešosios paslaugos gyventojams ir verslui. 
 
 Elektroninės viešosios paslaugos yra paslaugos, kurias galima gauti per internetą ar kitas elektronines ryšių sistemas, teikiamos valstybės institucijų ar jų įgaliotų atstovų. Šios paslaugos yra skirtos gyventojams ir verslui, siekiant užtikrinti, kad šie asmenys galėtų pasinaudoti paslaugomis be reikalo kreiptis į fizinius kontaktų taškus ar lankytis institucijose.
@@ -178,6 +189,7 @@ Apskritai elektroninės viešosios paslaugos gali padėti pagerinti valdžios pa
 Tačiau vyriausybėms svarbu užtikrinti, kad elektroninės viešosios paslaugos būtų saugios, jomis būtų lengva naudotis ir kad jomis galėtų naudotis visi piliečiai ir įmonės, nepriklausomai nuo jų technologinių įgūdžių ar išteklių.
 
 
+***
 12. Viešųjų el. paslaugų realizavimo infrastruktūra. Gebėti pateikti pavyzdžių ir paaiškinti kaip el. viešosios paslaugos veikia (pvz, vaiko gimimo registravimas ir išmokų gavimas).
 
 Viešųjų elektroninių paslaugų realizavimo infrastruktūra apima visas technines, organizacines ir teisinės priemonės, reikalingas elektroninių paslaugų teikimui. Tai gali apimti:
@@ -197,22 +209,42 @@ Norint naudotis šia paslauga, pilietis turėtų turėti galimybę naudotis elek
 
 Taip pat svarbu atkreipti dėmesį, kad viešųjų elektroninių paslaugų realizavimo infrastruktūra turi atitikti įvairius saugumo ir privatumo standartus, kad būtų užtikrinta informacijos ir duomenų saugumas.
 
+***
 13. Duomenų bazės ir duomenų bazių valdymo sistemos, bei jų svarba el. komercijos sistemų valdyme.
 
+***
 14. Elektroninis verslas. El.verslo vystymo priemonės. 
 
+***
 15. Verslo valdymo sistemų pagrindinės funkcijos ir jų pavyzdžiai. El. paslaugos verslo valdymo sistemų infrastruktūroje.
 
+***
 16. Pagrindiniai duomenų ir informacijos sistemų sąveikumo užtikrinimo lygmenys ir jų svarba realizuojant integruotas el.paslaugas.
 
+***
 17. Mobiliosios technologijos, paslaugos ir inovatyvi infrastruktūra. (Gebėti paaiškinti mobilių technologijų pagrindinius protokolus ir paslaugų rūšis ir El komercijos pavyzdžius).
+
+Mobiliosios technologijos yra technologijos, kurios yra naudojamos mobiliojo ryšio ir duomenų perdavimo sistemose, pavyzdžiui, mobiliojo telefono ar planšetinio kompiuterio. Tai apima įvairias paslaugas ir inovatyvią infrastruktūrą, leidžiančią vartotojams naudotis mobiliaisiais įrenginiais ir gauti prieigą prie interneto bei kitų duomenų perdavimo ryšių sistemų.
 
 Protokolai:
  WAP bevielio ryšio protokolas; WAP reiškia belaidžio ryšio taikomąjį protokolą. Tai techninis standartas, leidžiantis mobiliesiems įrenginiams, pvz., išmaniesiems telefonams ir planšetiniams kompiuteriams, naudotis informacija ir paslaugomis internete bei sąveikauti su jomis.
- 3G, 4G, 5G servisas – protokolai užtikrinantys objekto buvimo tikslumą;
- Mobilus ID (apsaugos ID) - mID;
+ 3G, 4G, 5G servisas – skirtingų kartų mobiliojo ryšio tinklų technologijos. Jos skirtos vis spartesniam ir efektyvesniam belaidžiam ryšiui mobiliuosiuose įrenginiuose, pvz., išmaniuosiuose telefonuose ir planšetiniuose kompiuteriuose, užtikrinti.
+ Mobilus ID (apsaugos ID) - mID - MobilusID yra elektroninio parašo sprendimas, kuris leidžia patvirtinti tapatybę ir pasirašyti elektroninius dokumentus naudojant mobilųjį telefoną. Tai patogus ir saugus sprendimas, naudojantis įvairias apsaugos priemones, pavyzdžiui, slaptažodžius ir biometrinę autentifikaciją
 
+Mobiliosios technologijos yra labai panaudojamos el. komercijoje, nes jos leidžia naudoti mobiliuosius įrenginius kaip prekybos ir paslaugų teikimo platformas. 
+Mobiliosios technologijos gali teikti įvairias paslaugas, pavyzdžiui:
+
+Mobiliojo ryšio televizijos ir kitos transliacijos, leidžiančios vartotojams tiesiogiai peržiūrėti prekes ar paslaugas tiesiog per savo mobiliuosius įrenginius
+Mobiliosios apsipirkimo svetainės ir programėlės, leidžiančios vartotojams pirkti prekes ir paslaugas tiesiog per savo mobiliuosius įrenginius
+Mobiliosios bankininkystės ir kitos finansinės paslaugos, leidžiančios vartotojams atlikti mokėjimus ir gauti finansinę informaciją tiesiog per savo mobiliuosius įrenginius
+Mobiliosios socialinės tinklų ir žiniatinklio paslaugos, leidžiančios vartotojams susisiekti su kitomis žmonėmis ir gauti informaciją tiesiog per savo mobiliuosius įrenginius
+
+Mobiliosios technologijos leidžia vartotojams naudotis el. komercijos paslaugomis bet kur ir bet kada, o tai didina patogumą ir patrauklumą el. komercijos paslaugoms. Tai taip pat leidžia plėsti el. komercijos rinką, nes daugelis žmonių naudoja mobiliuosius įrenginius kaip pagrindinį būdą gauti informaciją ir atlikti pirkimus.
+
+
+***
 18. Debesijos technologijų samprata ir teikiamos paslaugos.
+
 Debesijos technologijos – tai technologijos, užtikrinančios kompiuterinių paslaugų, kaip saugojimo, apdorojimo, analizės ir žvalgybos, teikimą internetu (debesyje), o ne naudojant vietinius serverius ar asmeninius įrenginius. Jos leidžia vartotojams pasiekti ir naudoti šiuos išteklius pagal poreikį iš bet kurios vietos ir mokėti tik už tai, ką naudoja.
 
 Yra keletas debesijos technologijų paslaugų tipų, įskaitant:
@@ -228,6 +260,7 @@ Funkcija kaip paslauga (FaaS): šio tipo debesies paslauga leidžia vartotojams 
 Debesų kompiuterija siūlo keletą privalumų, tokių kaip mažesnės sąnaudos, didesnis lankstumas, mastelio keitimas ir patikimumas, geresnė sauga ir našumas. Jį plačiai naudoja įmonės, organizacijos ir asmenys įvairiais tikslais, įskaitant duomenų saugojimą, atsarginė kopijos kūrimą, atkūrimą po nelaimingų atsitikimų, kūrimą ir testavimą bei programų paleidimą.
 
 
+***
 19. Elektroninis parašas, jo samprata ir realizacinių sistemų pavyzdžiai.
 
 Elektroninis parašas yra elektroninės formos parašas, kuris naudojamas siekiant patvirtinti dokumentų ar kitų elektroninių duomenų autentiškumą ir galiojimą. Elektroninis parašas gali būti naudojamas tiek viešajame sektoriuje, tiek privačiame sektoriuje siekiant užtikrinti, kad elektroniniai dokumentai būtų teisėtai sudaryti ir galiojantys.
@@ -243,6 +276,7 @@ Elektroninės parašų kortelės ir įrenginiai, pavyzdžiui, Gemalto IDPrime ar
 Mobilieji įrenginiai, pavyzdžiui, telefonai ar planšetiniai kompiuteriai, su įmontuota parašo funkcija. Šie įrenginiai gali būti naudojami siekiant sudaryti ir patvirtinti elektroninius parašus naudojantis specialiais elektroninės parašo programomis ar aplikacijomis.
 
 
+***
 20. Elektroninių dokumentų tvarkymo sistemos. Kokie pagrindiniai technologiniai sprendimai dalyvauja tokių sistemų realizavime?
 
 Dokumentų valdymo sistemos – tai sistemos, skirtos padėti organizacijoms saugoti, sekti ir tvarkyti elektroninius dokumentus ir elektroninius popierinės informacijos vaizdus. Yra daug technologinių sprendimų, kaip įdiegti dokumentų valdymo sistemą, įskaitant:
@@ -258,6 +292,7 @@ Mobilieji sprendimai: šios sistemos leidžia vartotojams pasiekti ir tvarkyti d
 Nepriklausomai nuo naudojamos technologijos, gera dokumentų valdymo sistema turėtų pasiūlyti tokias funkcijas kaip versijų valdymas, vartotojo prieigos kontrolė ir integracija su kitomis verslo sistemomis.
 
 
+***
 21. Saugumo internetiniuose informacijos mainuose samprata ir apsaugos sistemų taikymo lygmenys.
 
 Keitimosi informacija saugumas – priemonių, kurių imamasi siekiant užtikrinti informacijos konfidencialumą, vientisumą ir prieinamumą, kai ji perduodama iš vienos vietos ar sistemos į kitą, visuma. Tai gali apimti šifravimo, autentifikavimo ir kitų metodų naudojimą, siekiant apsaugoti informaciją nuo neteisėtos prieigos ar klastojimo.
