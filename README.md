@@ -129,9 +129,53 @@ Plačiausiai žinomi tokie:
 
 9. Valstybinės reikšmės informaciniai ištekliai (informacijos ir duomenų registrai) ir jų reikšmė viešųjų elektroninių paslaugų realizavimui.
 
+Daugelyje šalių yra tam tikrų informacijos išteklių, kurie laikomi nacionalinės svarbos, todėl juos prižiūri vyriausybė. Šiuose ištekliuose, dažnai vadinamuose informacijos ir duomenų registrais, saugoma įvairi informacija, kuri yra labai svarbi šalies ir jos piliečių funkcionavimui.
+
+Vienas iš nacionalinės svarbos informacijos išteklių pavyzdžių yra nacionalinė tapatybės duomenų bazė. Šioje duomenų bazėje pateikiama informacija apie kiekvieną šalies pilietį, įskaitant jo vardą, pavardę, gimimo datą ir nacionalinį identifikavimo numerį. Ši informacija naudojama išduodant asmens tapatybės dokumentus, pavyzdžiui, pasus ir nacionalines asmens tapatybės korteles, taip pat ja naudojasi valstybinės įstaigos, norėdamos patikrinti asmenų tapatybę teikiant paslaugas ar išmokas.
+
+Kiti nacionalinės svarbos informacinių išteklių pavyzdžiai: žemės ir nekilnojamojo turto registrai, kuriuose pateikiama informacija apie žemės ir pastatų nuosavybę ir ribas; rinkėjų registrai, kuriuose pateikiama informacija apie asmenis, turinčius teisę balsuoti rinkimuose, ir verslo registrai, kuriuose pateikiama informacija apie šalyje registruotas įmones.
+
+Šie informacijos ir duomenų registrai turi didelę reikšmę viešųjų elektroninių paslaugų teikimui. Suteikdami centralizuotą tikslios ir naujausios informacijos šaltinį, šie registrai leidžia vyriausybinėms įstaigoms veiksmingiau ir efektyviau teikti paslaugas visuomenei. Pavyzdžiui, asmuo, kuriam reikia pateikti prašymą išduoti pasą, gali pasinaudoti internetine paslauga ir pateikti prašymą bei patvirtinamuosius dokumentus, o vyriausybė, naudodamasi nacionaline tapatybės duomenų baze, gali patikrinti jo tapatybę ir kitą informaciją. Panašiai ir verslo savininkas gali naudotis internetine paslauga, kad užregistruotų savo įmonę ir galėtų naudotis kitomis vyriausybės paslaugomis, pavyzdžiui, gauti mokesčių mokėtojo pažymėjimą arba prašyti leidimų.
+
+Apskritai informacijos ir duomenų registrai atlieka labai svarbų vaidmenį teikiant viešąsias elektronines paslaugas, o jų priežiūra ir tvarkymas yra pagrindinė vyriausybių visame pasaulyje pareiga.
+
+**/OR/**
+Valstybės reikšmės informaciniai ištekliai yra informacijos ir duomenų registrai, kuriuose saugoma svarbi informacija apie valstybę, jos institucijas, jos veiklą ir piliečius. Šie informaciniai ištekliai yra labai svarbūs viešųjų elektroninių paslaugų realizavimui, nes jie leidžia valstybei teikti paslaugas piliečiams per internetą.
+
+Pavyzdžiui, valstybės reikšmės informaciniai ištekliai gali būti naudojami siekiant pateikti piliečiams galimybę elektroniniu būdu tvarkyti savo asmens dokumentus, mokėti mokesčius ar užsiregistruoti sveikatos paslaugų teikėjams. Šių informacinių išteklių naudojimas leidžia sutaupyti laiko ir išvengti nereikalingo administracinio našumo.
+
+Tačiau svarbu atkreipti dėmesį, kad valstybės reikšmės informaciniai ištekliai turi būti saugomi ir valdomi atsakingai, kad būtų užtikrinta jų saugumas ir privatumas. Štai kodėl yra įvesti įvairūs saugumo standartai ir reguliavimai, kurie leidžia apsaugoti šią informaciją ir užtikrinti, kad ji būtų prieinama tik teisėtoms asmenų ar institucijų.
+
+
 10. Elektroninės valdžios paslaugų portalo struktūra, paslaugų teikimo vieno langelio principas.
 
+Elektroninės valdžios paslaugų portalo struktūra turėtų būti sukurta taip, kad būtų patogu naudotis: tai reiškia, kad turėtų būti aiškiai parinktos kategorijos, kurios apibrėžtų kokios paslaugos yra teikiamos, bei turėtų būti sukurta patogu paieškos sistema, kuri padėtų rasti norimą paslaugą ar informaciją. Taip pat svarbu, kad elektroninės valdžios paslaugų portale būtų pateikiamos aiškios ir suprantamos instrukcijos, kaip naudotis paslaugomis ar gauti reikalingą informaciją. Tai padėtų sumažinti nereikalingą klientų konsultavimosi poreikį ir pagerinti paslaugų teikimo efektyvumą. O paslaugų teikimas turėtų vykti vieno langelio principu.
+
+Vieno langelio principas reiškia, kad pilietis gali gauti visus reikalingus dokumentus ir paslaugas per vieną elektroninę sistemą, be reikalo kreiptis į daugybę skirtingų institucijų ar kontaktų taškų. Tai leidžia sutaupyti laiko ir pastangų, kurios būtų reikalingos kreipimuisi į skirtingas institucijas ar įvairius kontaktų taškus.
+
+
 11. Elektroninės viešosios paslaugos gyventojams ir verslui. 
+
+Elektroninės viešosios paslaugos yra paslaugos, kurias galima gauti per internetą ar kitas elektronines ryšių sistemas, teikiamos valstybės institucijų ar jų įgaliotų atstovų. Šios paslaugos yra skirtos gyventojams ir verslui, siekiant užtikrinti, kad šie asmenys galėtų pasinaudoti paslaugomis be reikalo kreiptis į fizinius kontaktų taškus ar lankytis institucijose.
+
+Elektroninės viešosios paslaugos gali apimti įvairias sritis, pavyzdžiui:
+
+Asmens dokumentų tvarkymą (pavyzdžiui, paso ar vairuotojo pažymėjimo išdavimą ar keitimą)
+Mokesčių mokėjimą ar mokesčių deklaravimą
+Sveikatos paslaugų teikimą (pavyzdžiui, galimybę užsiregistruoti pas gydytoją ar gauti receptą elektroniniu būdu)
+Registraciją į mokyklas ar kitas mokymosi institucijas
+Verslo registravimą ar verslo liudijimų išdavimą
+Duomenų apie valstybės institucijas ir jų veiklą teikimą
+
+Elektroninės viešosios paslaugos gali suteikti daug naudos piliečiams ir įmonėms, įskaitant:
+
+patogumą: Elektronines paslaugas galima gauti iš bet kurios vietos ir bet kuriuo metu, todėl žmonės gali lengviau naudotis valdžios paslaugomis ir jiems nereikia asmeniškai lankytis valdžios įstaigose.
+Efektyvumas: E. paslaugos gali supaprastinti valdžios procesus ir sumažinti laiko bei pastangų sąnaudas, kurių reikia tokioms užduotims atlikti, kaip mokesčių deklaravimas ar prašymų dėl išmokų teikimas.
+Skaidrumas: E. paslaugos gali suteikti piliečiams ir įmonėms prieigą prie vyriausybės dokumentų ir informacijos, todėl lengviau stebėti paraiškų ar prašymų būklę ir reikalauti, kad vyriausybė būtų atskaitinga.
+
+Apskritai elektroninės viešosios paslaugos gali padėti pagerinti valdžios paslaugų prieinamumą ir veiksmingumą, o piliečiams ir įmonėms suteikti patogų būdą bendrauti su valdžia internetu.
+
+Tačiau vyriausybėms svarbu užtikrinti, kad elektroninės viešosios paslaugos būtų saugios, jomis būtų lengva naudotis ir kad jomis galėtų naudotis visi piliečiai ir įmonės, nepriklausomai nuo jų technologinių įgūdžių ar išteklių.
 
 12. Viešųjų el. paslaugų realizavimo infrastruktūra. Gebėti pateikti pavyzdžių ir paaiškinti kaip el. viešosios paslaugos veikia (pvz, vaiko gimimo registravimas ir išmokų gavimas).
 
