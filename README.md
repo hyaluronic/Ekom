@@ -177,7 +177,25 @@ Apskritai elektroninės viešosios paslaugos gali padėti pagerinti valdžios pa
 
 Tačiau vyriausybėms svarbu užtikrinti, kad elektroninės viešosios paslaugos būtų saugios, jomis būtų lengva naudotis ir kad jomis galėtų naudotis visi piliečiai ir įmonės, nepriklausomai nuo jų technologinių įgūdžių ar išteklių.
 
+
 12. Viešųjų el. paslaugų realizavimo infrastruktūra. Gebėti pateikti pavyzdžių ir paaiškinti kaip el. viešosios paslaugos veikia (pvz, vaiko gimimo registravimas ir išmokų gavimas).
+
+Viešųjų elektroninių paslaugų realizavimo infrastruktūra apima visas technines, organizacines ir teisinės priemonės, reikalingas elektroninių paslaugų teikimui. Tai gali apimti:
+
+Elektroninės valdžios paslaugų portalus, per kuriuos piliečiai gali pasiekti paslaugas ir informaciją
+Duomenų centrus, kuriuose saugoma ir valdoma informacija, reikalinga elektroninių paslaugų teikimui
+Teisinę sistemą, kuri reglamentuoja elektroninių paslaugų teikimą ir naudojimą
+Techninius sprendimus, tokius kaip elektroninių dokumentų tvarkymo sistemos ar duomenų apsaugos priemonės
+
+Vaiko gimimo registravimas:
+leidžia piliečiams elektroniniu būdu užpildyti ir pateikti dokumentus, reikalingus vaiko gimimo registravimui.
+Norint naudotis šia paslauga, pilietis turėtų turėti elektroninio parašo raktą arba turėti galimybę naudoti elektroninį parašą. Tai leidžia patvirtinti dokumentų teisingumą ir autentiškumą. Pilietis taip pat turi turėti galimybę perduoti reikalingus dokumentus elektroniniu būdu, pavyzdžiui, per elektroninę valdžios paslaugų portalo sistemą. Jei dokumentai yra pateikti teisingai ir patvirtinti, jie yra perduodami į duomenų centrą, kuriame jie yra saugomi ir tvarkomi. Po to, kai dokumentai patvirtinami, pilietis gali gauti patvirtinimą apie gimimo registravimą elektroniniu būdu, pavyzdžiui, per elektroninį paštą. Taip pat svarbu atkreipti dėmesį, kad vaiko gimimo registravimo el. viešosios paslaugos turi atitikti įvairius saugumo ir privatumo standartus, kad būtų užtikrinta informacijos ir duomenų saugumas.
+
+Išmokų gavimas:
+leidžia piliečiams gauti išmokas per elektronines bankininkystės sistemas ar kitas elektronines ryšių sistemas.
+Norint naudotis šia paslauga, pilietis turėtų turėti galimybę naudotis elektronine bankininkyste ar kitomis elektroninėmis ryšių sistemomis. Tai leidžia perduoti ir gauti pinigus per elektronines sistemas. Pilietis taip pat turi turėti galimybę perduoti reikalingus dokumentus elektroniniu būdu, pavyzdžiui, per elektroninę valdžios paslaugų portalo sistemą. Jei reikalingi dokumentai yra pateikti teisingai ir patvirtinti, išmokos yra perduodamos į piliečio elektroninę bankininkystės sistemą ar kitą elektroninę ryšių sistemą. Pilietis gali pasirinkti, kaip jis nori gauti išmokas (pavyzdžiui, tiesiogiai į savo banko sąskaitą ar elektroninės piniginės sąskaitą).
+
+Taip pat svarbu atkreipti dėmesį, kad viešųjų elektroninių paslaugų realizavimo infrastruktūra turi atitikti įvairius saugumo ir privatumo standartus, kad būtų užtikrinta informacijos ir duomenų saugumas.
 
 13. Duomenų bazės ir duomenų bazių valdymo sistemos, bei jų svarba el. komercijos sistemų valdyme.
 
@@ -189,7 +207,26 @@ Tačiau vyriausybėms svarbu užtikrinti, kad elektroninės viešosios paslaugos
 
 17. Mobiliosios technologijos, paslaugos ir inovatyvi infrastruktūra. (Gebėti paaiškinti mobilių technologijų pagrindinius protokolus ir paslaugų rūšis ir El komercijos pavyzdžius).
 
+Protokolai:
+ WAP bevielio ryšio protokolas; WAP reiškia belaidžio ryšio taikomąjį protokolą. Tai techninis standartas, leidžiantis mobiliesiems įrenginiams, pvz., išmaniesiems telefonams ir planšetiniams kompiuteriams, naudotis informacija ir paslaugomis internete bei sąveikauti su jomis.
+ 3G, 4G, 5G servisas – protokolai užtikrinantys objekto buvimo tikslumą;
+ Mobilus ID (apsaugos ID) - mID;
+
 18. Debesijos technologijų samprata ir teikiamos paslaugos.
+Debesijos technologijos – tai technologijos, užtikrinančios kompiuterinių paslaugų, kaip saugojimo, apdorojimo, analizės ir žvalgybos, teikimą internetu (debesyje), o ne naudojant vietinius serverius ar asmeninius įrenginius. Jos leidžia vartotojams pasiekti ir naudoti šiuos išteklius pagal poreikį iš bet kurios vietos ir mokėti tik už tai, ką naudoja.
+
+Yra keletas debesijos technologijų paslaugų tipų, įskaitant:
+
+Infrastruktūra kaip paslauga (IaaS): tai paprasčiausias debesijos paslaugų tipas, suteikiantis vartotojams prieigą prie skaičiavimo infrastruktūros, pvz., serverių, saugyklos ir tinklo išteklių, internetu.
+
+Platforma kaip paslauga (PaaS): šio tipo debesies paslauga suteikia vartotojams prieigą prie platformos, pvz., operacinės sistemos arba kūrimo aplinkos, internetu. Vartotojai gali kurti, išbandyti ir įdiegti savo programas platformoje.
+
+Programinė įranga kaip paslauga (SaaS): tai labiausiai paplitęs debesies paslaugų tipas, kai vartotojai gali pasiekti ir naudoti programinės įrangos programas internetu. Paprastai programinė įranga pristatoma per žiniatinklio naršyklę, todėl vartotojams nereikia jos įdiegti savo kompiuteryje.
+
+Funkcija kaip paslauga (FaaS): šio tipo debesies paslauga leidžia vartotojams vykdyti kodą debesyje, reaguodama į įvykius ar paleidiklius, tokius kaip duomenų pasikeitimai arba kitų programų užklausos.
+
+Debesų kompiuterija siūlo keletą privalumų, tokių kaip mažesnės sąnaudos, didesnis lankstumas, mastelio keitimas ir patikimumas, geresnė sauga ir našumas. Jį plačiai naudoja įmonės, organizacijos ir asmenys įvairiais tikslais, įskaitant duomenų saugojimą, atsarginė kopijos kūrimą, atkūrimą po nelaimingų atsitikimų, kūrimą ir testavimą bei programų paleidimą.
+
 
 19. Elektroninis parašas, jo samprata ir realizacinių sistemų pavyzdžiai.
 
@@ -208,4 +245,28 @@ Mobilieji įrenginiai, pavyzdžiui, telefonai ar planšetiniai kompiuteriai, su 
 
 20. Elektroninių dokumentų tvarkymo sistemos. Kokie pagrindiniai technologiniai sprendimai dalyvauja tokių sistemų realizavime?
 
+Dokumentų valdymo sistemos – tai sistemos, skirtos padėti organizacijoms saugoti, sekti ir tvarkyti elektroninius dokumentus ir elektroninius popierinės informacijos vaizdus. Yra daug technologinių sprendimų, kaip įdiegti dokumentų valdymo sistemą, įskaitant:
+
+Debesies technologijomis pagrįsti sprendimai: šias sistemas priglobia trečiosios šalies teikėjas ir jos pasiekiamos internetu. Jie siūlo privalumus, nes juos lengva nustatyti ir prižiūrėti, juos galima pasiekti iš bet kurios vietos, kur yra interneto ryšys.
+
+Vietiniai sprendimai: šios sistemos yra įdiegtos ir paleidžiamos įmonės serveriuose, kurie gali pasiūlyti didesnį valdymą ir saugumą. Tačiau jiems reikia daugiau išankstinių investicijų ir nuolatinės priežiūros.
+
+Hibridiniai sprendimai: šiose sistemose sujungiami debesų ir vietinių sprendimų elementai, todėl organizacijos gali pasirinkti geriausiai jų poreikius atitinkančią parinktį.
+
+Mobilieji sprendimai: šios sistemos leidžia vartotojams pasiekti ir tvarkyti dokumentus iš savo mobiliųjų įrenginių, pvz., išmaniųjų telefonų ir planšetinių kompiuterių.
+
+Nepriklausomai nuo naudojamos technologijos, gera dokumentų valdymo sistema turėtų pasiūlyti tokias funkcijas kaip versijų valdymas, vartotojo prieigos kontrolė ir integracija su kitomis verslo sistemomis.
+
+
 21. Saugumo internetiniuose informacijos mainuose samprata ir apsaugos sistemų taikymo lygmenys.
+
+Keitimosi informacija saugumas – priemonių, kurių imamasi siekiant užtikrinti informacijos konfidencialumą, vientisumą ir prieinamumą, kai ji perduodama iš vienos vietos ar sistemos į kitą, visuma. Tai gali apimti šifravimo, autentifikavimo ir kitų metodų naudojimą, siekiant apsaugoti informaciją nuo neteisėtos prieigos ar klastojimo.
+
+Yra įvairių saugumo sistemų lygių, priklausomai nuo saugomos informacijos jautrumo ir vertės. Pavyzdžiui:
+
+Bazinės saugos priemonės gali būti paprasti slaptažodžiai ir ugniasienės, apsaugančios nuo pagrindinių grėsmių.
+
+Vidutinio lygio saugos priemonės gali apimti šifravimo, pažangesnių autentifikavimo metodų naudojimą ir įsibrovimo aptikimo sistemas.
+Išplėstinės saugos priemonės gali apimti biometrinio autentifikavimo, kelių veiksnių autentifikavimo ir kitų labai saugių apsaugos nuo sudėtingų grėsmių metodų naudojimą.
+
+Tinkamas saugumo lygis priklausys nuo konkrečių atitinkamos organizacijos ar sistemos poreikių ir reikalavimų.
