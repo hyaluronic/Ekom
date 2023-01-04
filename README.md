@@ -86,6 +86,21 @@ Reikalingi duomenų apsikeitimo ir saugumo protokolai, kodas generuojantis inter
 
 7. El. prekybos įgalinimo platformos (karkasai, pvz., Presta Shop, Magento).
 
+Elektroninės prekybos platformos - tai platformos arba technologijos, leidžiančios įmonėms kurti ir valdyti internetines parduotuves arba kitas elektroninės prekybos svetaines. Šios platformos suteikia reikiamą infrastruktūrą, priemones ir paslaugas, kad būtų galima pirkti ir parduoti prekes ir paslaugas internetu.
+
+Keletas e. prekybą įgalinančių platformų pavyzdžių:
+
+Pirkinių krepšelio programinė įranga: Šios rūšies programinė įranga leidžia įmonėms kurti internetines parduotuves ir valdyti pirkinių internetu kasos procesą. Pavyzdžiai: "Magento", "WooCommerce" ir "Shopify".
+
+Mokėjimo vartai: Mokėjimo vartai - tai internetinės paslaugos, palengvinančios internetinių sandorių apdorojimą. Jos leidžia įmonėms priimti iš klientų kredito kortelių mokėjimus ir kitų formų internetinius mokėjimus. Pavyzdžiui, "PayPal" ir "Stripe".
+
+Siuntimo ir vykdymo paslaugos: Šios paslaugos teikia reikiamą infrastruktūrą ir logistinę paramą užsakymams išsiųsti ir pristatyti klientams. Pavyzdžiui, "Amazon Fulfillment" ir "Shipstation".
+
+Rinkodaros ir ryšių su klientais valdymo (CRM) priemonės: Šios priemonės padeda įmonėms reklamuoti savo produktus ir paslaugas potencialiems klientams, valdyti santykius su klientais ir ryšius. Pavyzdžiui, "Mailchimp" ir "Salesforce".
+
+Elektroninės prekybos platformos gali būti svarbi sėkmingo internetinio verslo kūrimo dalis, nes jose pateikiamos būtinos priemonės ir paslaugos, padedančios pirkti ir parduoti prekes bei paslaugas internetu.
+
+
 8. Kompiuterinių tinklų standartizuoti lygmenys (OSI modelis pagal ISO) ir juose veikiantys protokolai ir programinė įranga, reikalinga realizuoti elektroninės komercijos sistemas.
  
 9. Valstybinės reikšmės  informaciniai ištekliai (informacijos ir duomenų registrai) ir jų reikšmė viešųjų elektroninių paslaugų realizavimui.
