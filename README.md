@@ -119,8 +119,7 @@ Elektroninės prekybos platformos gali būti svarbi sėkmingo internetinio versl
 ***
 8. Kompiuterinių tinklų standartizuoti lygmenys (OSI modelis pagal ISO) ir juose veikiantys protokolai ir programinė įranga, reikalinga realizuoti elektroninės komercijos sistemas.
 
-OSI (Open Systems Interconnection) modelis sukurtas 1980 metais. Kūrėjai yra ISO ir ITU-T organizacijos. Pagrindinis ISO standartas OSI modeliui - ISO74***
-98. Modelis apibrėžia duomenų perdavimo sistemų sujungimo principą, paremtą sluoksnių principu. OSI modelis nenurodo tikslių paslaugų ir protokolų, kurie turi būti naudojami kiekviename lygyje. Modelis pasako, ką kiekvienas lygis turi daryti. 
+OSI (Open Systems Interconnection) modelis sukurtas 1980 metais. Kūrėjai yra ISO ir ITU-T organizacijos. Pagrindinis ISO standartas OSI modeliui - ISO7498. Modelis apibrėžia duomenų perdavimo sistemų sujungimo principą, paremtą sluoksnių principu. OSI modelis nenurodo tikslių paslaugų ir protokolų, kurie turi būti naudojami kiekviename lygyje. Modelis pasako, ką kiekvienas lygis turi daryti. 
 
 OSI modelio lygmenys:
 
