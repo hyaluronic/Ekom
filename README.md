@@ -102,8 +102,32 @@ Elektroninės prekybos platformos gali būti svarbi sėkmingo internetinio versl
 
 
 8. Kompiuterinių tinklų standartizuoti lygmenys (OSI modelis pagal ISO) ir juose veikiantys protokolai ir programinė įranga, reikalinga realizuoti elektroninės komercijos sistemas.
- 
-9. Valstybinės reikšmės  informaciniai ištekliai (informacijos ir duomenų registrai) ir jų reikšmė viešųjų elektroninių paslaugų realizavimui.
+
+OSI (Open Systems Interconnection) modelis sukurtas 1980 metais. Kūrėjai yra ISO ir ITU-T organizacijos. Pagrindinis ISO standartas OSI modeliui - ISO7498. Modelis apibrėžia duomenų perdavimo sistemų sujungimo principą, paremtą sluoksnių principu. OSI modelis nenurodo tikslių paslaugų ir protokolų, kurie turi būti naudojami kiekviename lygyje. Modelis pasako, ką kiekvienas lygis turi daryti. 
+
+OSI modelio lygmenys:
+• Taikomasis - atsakingas už komunikacijas tarp programų (procesų). Taikomajame lygmenyje veikia daug protokolų: HTTP, FTP, SMTP, POP, DNS, SNMP, NTP.
+• Vaizdavimo - susijęs su perduodamos informacijos sintakse ir semantika. Vaizdavimo lygmenyje atliekamas ir duomenų šifravimas ir dešifravimas, nors ši procedūra gali būti atlikta ir kituose lygmenyse.
+• Sesijos - apibrėžia, kad duomenų perdavimo procesas surišamas su tam tikra sesija (dialogo užmezgimas tarp siuntėjo ir gavėjo).
+• Transporto - funkcija yra priimti iš sesijinio lygio duomenis, jei reikia padalinti juos į mažesnes dalis ir perduoti į tinklinį lygį. Tinklinis lygmuo atsakingas už patikimą duomenų perdavimą be klaidų.
+• Tinklo - apibrėžia duomenų paketų maršrutų formavimo principus, pereinant jiems per skirtingus potinklius. 
+• Kanalinis (ryšio) - apibrėžia ryšio taisykles tarp dviejų fizinių tinklo įrenginių. Siuntėjo mazge duomenys skaldomi į kadrus ir kaip bitų srautas perduodami fizine ryšio linija. Gavėjo mazgas iš gautų bitų formuoja kadrus, kuriuos perduoda į tinklo lygmenį. Kanalinio lygio užduotis - sukurti ir atpažinti kadrų ribas
+• Fizinis - aprašo fizinius perduodamo signalo ir terpės, kuria jis perduodamas, parametrus (dažnius, moduliacijas, reikalavimus kabeliams, jungtims, duomenų vertimą į/iš fizinio signalo ir t.t.). 
+
+Lygmenims apibrėžti buvo naudoti tokie principai:
+• Kiekvienas lygmuo turi vykdyti gerai apibrėžtas funkcijas.
+• Kiekvieno lygmens funkcija turi būti pasirinkta orientuojantis į tarptautinių protokolų standartų sukūrimą.
+• Lygių ribos turi būti pasirinktos taip, kad minimizuotų informacijos srautą per sąsają.
+• Lygių skaičius turi būti pakankamai didelis, kad skirtingos funkcijos nepatektų be reikalo į tą patį lygį, ir pakankamai mažas, kad architektūra nepasidarytų griozdiška.
+
+Praktiškai OSI realizuojamas naudojant protokolų stekus arba kitaip sakant protokolais grįstais modeliais.
+Plačiausiai žinomi tokie:
+• TCP/IP
+• IPX/SPX
+• NetBIOS/SMB
+
+
+9. Valstybinės reikšmės informaciniai ištekliai (informacijos ir duomenų registrai) ir jų reikšmė viešųjų elektroninių paslaugų realizavimui.
 
 10. Elektroninės valdžios paslaugų portalo struktūra, paslaugų teikimo vieno langelio principas.
 
@@ -124,6 +148,19 @@ Elektroninės prekybos platformos gali būti svarbi sėkmingo internetinio versl
 18. Debesijos technologijų samprata ir teikiamos paslaugos.
 
 19. Elektroninis parašas, jo samprata ir realizacinių sistemų pavyzdžiai.
+
+Elektroninis parašas yra elektroninės formos parašas, kuris naudojamas siekiant patvirtinti dokumentų ar kitų elektroninių duomenų autentiškumą ir galiojimą. Elektroninis parašas gali būti naudojamas tiek viešajame sektoriuje, tiek privačiame sektoriuje siekiant užtikrinti, kad elektroniniai dokumentai būtų teisėtai sudaryti ir galiojantys.
+
+Elektroninio parašo samprata gali skirtis priklausomai nuo vartojimo konteksto. Visgi, bendrai paėmus, elektroninis parašas gali būti suprantamas kaip elektroninės formos parašas, kuris naudojamas siekiant patvirtinti dokumentų ar kitų elektroninių duomenų autentiškumą ir galiojimą.
+
+Yra įvairių realizacinių sistemų, kurios gali būti naudojamos siekiant sudaryti ir patvirtinti elektroninius parašus. Pavyzdžiai gali būti tokie:
+
+Elektroninis parašo sprendimai, pavyzdžiui, Adobe Sign, DocuSign arba OneSpan Sign. Šios sistemos leidžia sudaryti ir patvirtinti elektroninius parašus naudojantis internetu arba mobiliosiomis aplikacijomis.
+
+Elektroninės parašų kortelės ir įrenginiai, pavyzdžiui, Gemalto IDPrime arba YubiKey. Šios kortelės ar įrenginiai naudojami siekiant patvirtinti elektroninius parašus naudojantis kriptografine technologija.
+
+Mobilieji įrenginiai, pavyzdžiui, telefonai ar planšetiniai kompiuteriai, su įmontuota parašo funkcija. Šie įrenginiai gali būti naudojami siekiant sudaryti ir patvirtinti elektroninius parašus naudojantis specialiais elektroninės parašo programomis ar aplikacijomis.
+
 
 20. Elektroninių dokumentų tvarkymo sistemos. Kokie pagrindiniai technologiniai sprendimai dalyvauja tokių sistemų realizavime?
 
